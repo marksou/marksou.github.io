@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Atherton - Life Coach</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Mike Atherton - Life Coach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Oct 2015 08:52:23 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>testpost</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/testpost/</link>
+      <pubDate>Fri, 30 Oct 2015 08:52:23 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/testpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
